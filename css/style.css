@@ -13,10 +13,11 @@
 	font-size: 50px;
 }
 
-author{
-	font-size: 10px;
+.Author{
+	font-size: 20px;
 }
 
 p{
 	font-size: 15px;
+	line-height: 1.7;
 }
